@@ -1,0 +1,7 @@
+/build/
+/nbproject/private/
+/nbproject/Makefile-*.mk
+/nbproject/Package-*.bash
+/dist/
+*.class
+.DS_Store
